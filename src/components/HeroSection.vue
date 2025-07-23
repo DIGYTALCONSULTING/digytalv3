@@ -6,7 +6,7 @@
         <div>
           <video autoplay muted loop playsinline
            src="/src/assets/video_hero.mp4" alt="video web DigytalConsulting" 
-          class="absolute top-86 left-37 w-[200px] h-[200px] rounded-full object-cover z-10 animate__animated animate__lightSpeedInRight">
+          class="absolute top-80 left-37 w-[200px] h-[200px] rounded-full object-cover z-10 animate__animated animate__lightSpeedInRight">
           </video>
         </div>
     </div>
