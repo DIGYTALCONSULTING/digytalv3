@@ -6,7 +6,7 @@ import ProcessSection from './components/ProcessSection.vue';
 import PlansSection from './components/PlansSection.vue';
 import ContacSection from './components/ContacSection.vue';
 import FootPage from './components/FootPage.vue';
-
+import Chat_bot from './components/Chat_bot.vue';
 </script>
 
 
@@ -19,6 +19,6 @@ import FootPage from './components/FootPage.vue';
     <PlansSection msg="" />
     <ContacSection msg="" />
     <FootPage msg="" />
-    
+    <Chat_bot msg="" />
   </div>
 </template>

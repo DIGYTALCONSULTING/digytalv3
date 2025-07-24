@@ -11,4 +11,11 @@ export default defineConfig({
     vue(),         // Plugin para Vue 3
     tailwindcss(), // Plugin para Tailwind CSS
   ],
+
+  // Aquí agregamos la configuración del alias
+  resolve: {
+    alias: {
+      '@': '/src', // Alias para la carpeta src/
+    },
+  },
 })
