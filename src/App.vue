@@ -1,7 +1,11 @@
 
 <script setup lang="ts">
-import HEroSection from './components/HEroSection.vue';
+import HeroSection from './components/HeroSection.vue';
 import NvarSection from './components/NvarSection.vue'
+import ProcessSection from './components/ProcessSection.vue';
+import PlansSection from './components/PlansSection.vue';
+import ContacSection from './components/ContacSection.vue';
+import FootPage from './components/FootPage.vue';
 
 </script>
 
@@ -10,6 +14,11 @@ import NvarSection from './components/NvarSection.vue'
 <template>
  <div>
     <NvarSection msg="" />
-    <HEroSection msg="" />
+    <HeroSection msg="" />
+    <ProcessSection msg="" />
+    <PlansSection msg="" />
+    <ContacSection msg="" />
+    <FootPage msg="" />
+    
   </div>
 </template>
